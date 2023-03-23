@@ -1,4 +1,0 @@
-[submodule "attainable-utility-preservation"]
-	path = attainable-utility-preservation
-	url = https://github.com/fkabs/attainable-utility-preservation.git
-    ignore = all
